@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/34461856_1439172838_223132457.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_2844360058_488530494.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_177305706_105697535.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_4187711071_1666280314.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_1201728886_2761599000.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_2181259121_4068036704.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_2855645427_1957563284.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_1762160122_352269148.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_429095657_4051626331.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_2844360058_3986454262.mp4'
+file 'file:E:/resource/work&study/作业/大一下/py课设/002/media/videos/002/2160p60/partial_movie_files/Relationship_of_suanshu_and_pingjun/3166950890_743581431_547546472.mp4'
